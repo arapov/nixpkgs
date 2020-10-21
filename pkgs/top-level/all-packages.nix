@@ -20047,6 +20047,8 @@ julia_15 = callPackage ../development/compilers/julia/1.5.nix {
 
   aqemu = libsForQt5.callPackage ../applications/virtualization/aqemu { };
 
+  archivemail = callPackage ../applications/networking/mailreaders/archivemail { };
+
   ardour = callPackage ../applications/audio/ardour { };
 
   ardour_5 = lowPrio (callPackage ../applications/audio/ardour/5.nix { });
