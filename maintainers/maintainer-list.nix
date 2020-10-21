@@ -76,6 +76,12 @@
     githubId = 7755101;
     name = "Aaron Andersen";
   };
+  aarapov = {
+    email = "arapov@gmail.com";
+    github = "arapov";
+    githubId = 1823164;
+    name = "Anton Arapov";
+  };
   aaronjanse = {
     email = "aaron@ajanse.me";
     github = "aaronjanse";
